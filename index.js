@@ -403,11 +403,11 @@ if(!isOwner) return m.reply(msg.owner)
 case 'creator':
 case 'creador': 
 case 'developer':
-number = '59172945992@s.whatsapp.net'
+number = '590590555055@s.whatsapp.net'
     capt = `▢ Numero : @${number.split('@')[0]}\n\n`
-    capt += '▢ Instagram : https://www.instagram.com/fg98._'
-    await Fg.fakeLink(from, capt, thumb, 'Click aquí', 'https://www.instagram.com/fg98._', mek)
-   /* Fg.sendContact(from, '59172945992', 'owner', {
+    capt += '▢ Instagram : https://www.xnxx.com'
+    await Fg.fakeLink(from, capt, thumb, 'Click aquí', 'https://www.xnxx.com._', mek)
+   /* Fg.sendContact(from, '590590555055', 'owner',{
 	 key: {
           fromMe: false,
 	      participant: `0@s.whatsapp.net`, ...(from ? 
